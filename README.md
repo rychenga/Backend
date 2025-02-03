@@ -20,3 +20,11 @@ go build -o myprogram.exe main.go
 或
 go build -ldflags "-s -w" -o myprogram.exe
 ```
+
+## Environment
+### Web Framework
+- Gin
+
+### Database
+- Mysql
+- PostgreSQL
