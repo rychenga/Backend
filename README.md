@@ -26,5 +26,5 @@ go build -ldflags "-s -w" -o myprogram.exe
 - Gin
 
 ### Database
-- Mysql
+- MySql
 - PostgreSQL
